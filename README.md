@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pranav
 
-<!--
-**Pranav-Mathad/Pranav-Mathad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer building AI products for EU regulatory compliance at [COBACK](https://coback.ai), and doing my M.Sc. in Computer Science at TU Dresden.
 
-Here are some ideas to get you started:
+**Currently**
+- Building compliance products at COBACK (private repos, one of the first three hires)
+- Research project at TU Dresden: simulating and observing traffic inside a Kubernetes cluster
+- Fellow at the YETI entrepreneurship program, Dresden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in**
+- AI applications: RAG, agents, evaluation
+- Distributed and cloud systems
+
+**Stack**
+TypeScript · Python · Node.js · React · Next.js · FastAPI · PostgreSQL · Docker · Kubernetes
+
+**Projects**
+- [Keystone](https://github.com/Pranav-Mathad/keystone): property operations platform with an event-sourced data model, built solo at a hackathon
+
+**Find me**
+[LinkedIn](https://www.linkedin.com/in/pranavmathad/) · [X](https://x.com/YOUR_HANDLE) · YOUR_EMAIL
+
+<sub>One day I wrote console.log("here") for the last time and didn't even know it.</sub>
