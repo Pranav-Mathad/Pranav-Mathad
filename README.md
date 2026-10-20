@@ -18,6 +18,6 @@ TypeScript · Python · Node.js · React · Next.js · FastAPI · PostgreSQL · 
 - [Keystone](https://github.com/Pranav-Mathad/keystone): property operations platform with an event-sourced data model, built solo at a hackathon
 
 **Find me**
-[LinkedIn](https://www.linkedin.com/in/pranavmathad/) · [X](https://x.com/YOUR_HANDLE) · YOUR_EMAIL
+[LinkedIn](https://www.linkedin.com/in/pranavmathad/)  · pranavmathad807@gmail.com
 
 <sub>One day I wrote console.log("here") for the last time and didn't even know it.</sub>
