@@ -2,10 +2,9 @@
 
 Full-stack software engineer building AI products for EU regulatory compliance at [COBACK](https://coback.ai), and doing my M.Sc. in Computer Science at TU Dresden.
 
-**Currently**
-- Building compliance products at COBACK (private repos, one of the first three hires)
-- Research project at TU Dresden: simulating and observing traffic inside a Kubernetes cluster
-- Fellow at the YETI entrepreneurship program, Dresden
+**What I'm working on**
+- 🏢 Building AI products for EU regulatory compliance at [COBACK](https://coback.ai), an early-stage Dresden startup. I joined as one of the first three hires (the code is private).
+- ☸️ Research at TU Dresden: part of an interactive Kubernetes visualisation that shows confidential computing in action. I'm building the traffic side: generating realistic load on a microservices app and tracking live which services talk to each other.
 
 **Interested in**
 - AI applications: RAG, agents, evaluation
@@ -18,6 +17,4 @@ TypeScript · Python · Node.js · React · Next.js · FastAPI · PostgreSQL · 
 - [Keystone](https://github.com/Pranav-Mathad/keystone): property operations platform with an event-sourced data model, built solo at a hackathon
 
 **Find me**
-[LinkedIn](https://www.linkedin.com/in/pranavmathad/)  · pranavmathad807@gmail.com
-
-<sub>One day I wrote console.log("here") for the last time and didn't even know it.</sub>
+[LinkedIn](https://www.linkedin.com/in/pranavmathad/) · [X](https://x.com/YOUR_HANDLE) · pranavmathad807@gmail.com
