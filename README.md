@@ -4,7 +4,7 @@ Full-stack software engineer working on AI products and distributed systems. Cur
 
 **What I'm working on**
 
-- 🏢 Building AI products for EU regulatory compliance at [COBACK](https://coback.ai), an early-stage Dresden startup. I joined as one of the first three hires (the code is private).
+- 🏢 Building AI products for EU regulatory compliance at [COBACK](https://coback.ai), an early-stage Dresden startup. I joined as one of the first three hires.
 - ☸️ Research at TU Dresden: part of an interactive Kubernetes visualisation that shows confidential computing in action. I'm building the traffic side: generating realistic load on a microservices app and tracking live which services talk to each other.
 
 **Interested in**
